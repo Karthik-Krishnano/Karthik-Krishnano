@@ -7,9 +7,8 @@
 
 👋 Hi, I’m a Data Science student from  🏫 Vellore Institute of Technology, Vellore.<br>
 I'm an expert 👀 Python Programmer, 👀 Computer Vision Engineer, 👀 Web Developer, and many more. 
-📫 
-##Reach me on 
-## Links 📫  Reach me on
+
+## 📫  Reach me on
 
 <p align="center">
 <a href="https://karthik-krishnano.github.io/Personal-Website/" a target="_blank"><img src="https://img.icons8.com/fluent/96/000000/domain.png" alt="website"/></a>
