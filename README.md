@@ -1,3 +1,5 @@
+<p style="background-image: url('https://github.com/Karthik-Krishnano/Karthik-Krishnano/blob/initial/name.gif');">
+
 <p align="center">
   <img src="https://github.com/Karthik-Krishnano/Karthik-Krishnano/blob/initial/name.gif" alt="Karthik Krishnan O">
 </p>
