@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/Karthik-Krishnano/Karthik-Krishnano/blob/initial/name.gif" alt="Karthik Krishnan O">
+  <img src="https://github.com/Karthik-Krishnano/Karthik-Krishnano/blob/main/name.gif" alt="Karthik Krishnan O">
 </p>
 
 
