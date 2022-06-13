@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Karthik-Krishnano\text(1).gif" alt="Karthik Krishnan O">
+</p>
+
 - 👋 Hi, I’m @Karthik-Krishnano
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
