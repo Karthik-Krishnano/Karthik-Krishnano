@@ -16,7 +16,4 @@ I'm an expert 👀 Python Programmer, 👀 Computer Vision Engineer, 👀 Web De
 <a href="https://www.linkedin.com/in/karthik-krishnan-o-75846920b/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
 </p>
 
-<!---
-Karthik-Krishnano/Karthik-Krishnano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
