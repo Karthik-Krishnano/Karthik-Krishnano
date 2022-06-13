@@ -5,7 +5,7 @@
 
 
 
-👋 Hi, I’m a Data Science student from  🏫 Vellore Institute of Technology, Vellore.
+👋 Hi, I’m a Data Science student from  🏫 Vellore Institute of Technology, Vellore.<br>
 I'm an expert 👀 Python Programmer, 👀 Computer Vision Engineer, 👀 Web Developer, and many more. 
 
 📫 Reach me on 
