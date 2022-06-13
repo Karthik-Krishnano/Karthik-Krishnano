@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Karthik-Krishnano\text(1).gif" alt="Karthik Krishnan O">
+  <img src="https://github.com/Karthik-Krishnano/Karthik-Krishnano/blob/initial/text%20(1).gif" alt="Karthik Krishnan O">
 </p>
 
 - 👋 Hi, I’m @Karthik-Krishnano
