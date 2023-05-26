@@ -2,14 +2,8 @@
 <p align="center">
   <img src="https://github.com/Karthik-Krishnano/Karthik-Krishnano/blob/main/web.png" alt="Karthik Krishnan O">
   <img src="https://github.com/Karthik-Krishnano/Karthik-Krishnano/blob/main/web1.png" alt="Karthik Krishnan O">
-  
-  <img src="https://github.com/Karthik-Krishnano/Karthik-Krishnano/blob/main/name.gif" alt="Karthik Krishnan O">
 </p>
 
-
-
-👋 Hi, I’m a Data Science student from  🏫 Vellore Institute of Technology, Vellore.<br>
-I'm an expert 👀 Python Programmer, 👀 Computer Vision Engineer, 👀 Web Developer, and many more. 
 
 ## 📫  Reach me on
 
