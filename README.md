@@ -20,7 +20,7 @@
 </a>
   
 <a href="https://www.linkedin.com/in/karthik-krishnan-o-75846920b/">
-  <img src="https://www.freepnglogos.com/uploads/logo-ig-png/logo-ig-instagram-new-logo-vector-download-13.png" alt="instagram" width="80"/>
+  <img src="https://www.freepnglogos.com/uploads/instagram-icon-png/instagram-android-app-icon-2.png" alt="instagram" width="80"/>
 </a>
   
 </p>
