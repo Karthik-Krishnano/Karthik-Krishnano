@@ -11,7 +11,7 @@
 <a href="https://karthik-krishnano.github.io/Personal-Website/" a target="_blank"><img src="https://img.icons8.com/fluent/96/000000/domain.png" alt="website"/></a>
 <a href="mailto:karthikkrishnanozhinhala@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
 <a href="https://www.linkedin.com/in/karthik-krishnan-o-75846920b/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
-<a href="https://www.linkedin.com/in/karthik-krishnan-o-75846920b/"><img src="https://w7.pngwing.com/pngs/648/943/png-transparent-instagram-logo-logo-instagram-computer-icons-camera-instagram-logo-text-trademark-magenta.png" alt="instagram"/></a>
+<a href="https://www.linkedin.com/in/karthik-krishnan-o-75846920b/"><img src="https://www.freepnglogos.com/uploads/logo-ig-png/logo-ig-instagram-new-logo-vector-download-13.png" alt="instagram"/></a>
 </p>
 
 
