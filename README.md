@@ -15,13 +15,15 @@
   <img src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-gmail-icon-download-png-and-vector-1.png" alt="email" width="100"/>
 </a>
   
+ <a href="https://www.linkedin.com/in/karthik-krishnan-o-75846920b/">
+  <img src="https://www.freepnglogos.com/uploads/instagram-icon-png/instagram-android-app-icon-2.png" alt="instagram" width="80"/>
+</a>
+  
 <a href="https://www.linkedin.com/in/karthik-krishnan-o-75846920b/">
   <img src="https://www.freepnglogos.com/uploads/linkedin-in-logo-png-1.png" alt="linkedin" width="110"/>
 </a>
   
-<a href="https://www.linkedin.com/in/karthik-krishnan-o-75846920b/">
-  <img src="https://www.freepnglogos.com/uploads/instagram-icon-png/instagram-android-app-icon-2.png" alt="instagram" width="80"/>
-</a>
+
   
 </p>
 
