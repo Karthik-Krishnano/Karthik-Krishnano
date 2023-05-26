@@ -16,7 +16,7 @@
 </a>
   
 <a href="https://www.linkedin.com/in/karthik-krishnan-o-75846920b/">
-  <img src="https://www.freepnglogos.com/uploads/linkedin-in-logo-png-1.png" alt="linkedin" width="100"/>
+  <img src="https://www.freepnglogos.com/uploads/linkedin-in-logo-png-1.png" alt="linkedin" width="110"/>
 </a>
   
 <a href="https://www.linkedin.com/in/karthik-krishnan-o-75846920b/">
