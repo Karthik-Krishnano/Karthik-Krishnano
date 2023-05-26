@@ -21,7 +21,7 @@
 </a>
   
 <a href="https://www.instagram.com/_karthik_krishnan_2/">
-  <img src="https://www.freepnglogos.com/uploads/instagram-icon/new-instagram-logo-png-edigital-australia-26.png" alt="instagram" width="80" />
+  <img src="https://www.freepnglogos.com/uploads/instagram-icon/new-instagram-logo-png-edigital-australia-26.png" alt="instagram" width="100" />
 </a>
   
 
